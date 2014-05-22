@@ -6,7 +6,7 @@ Airline Performance
 Learning to process/Analyze Large data set in R
 Background
 
-I came across an interesting,but huge data set here. This is in fact a Data Expo competition of 2009. The aim of the data expo was to provide graphical summary of important features of the data set. The competition was to analyze 22 years of flight arrival/departure data and to predict departure or arrival delay in the future.
+I came across an interesting,but huge data set here [http://stat-computing.org/dataexpo/2009/the-data.html]. This is in fact a Data Expo competition of 2009. The aim of the data expo was to provide graphical summary of important features of the data set. The competition was to analyze 22 years of flight arrival/departure data and to predict departure or arrival delay in the future.
 
 My idea is to work with 2008 year data [approx 690 MB] and to perform the analysis on this data set and to scale the logic using Hadoop/Hive in Amazon EMR (Elastic MapReduce) in the future.
 
